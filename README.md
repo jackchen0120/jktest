@@ -1,6 +1,6 @@
 # jktest
 
-## 自动化部署jenkins+gogs
+## 自动化部署jenkins+github
 
 ## Project setup
 ```
